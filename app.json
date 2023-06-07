@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "Native",
-    "slug": "Native",
+    "name": "Trip",
+    "slug": "Trip",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/",
+    "icon": "./assets/indir.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,12 +19,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/",
+        "foregroundImage": "",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/"
+      "favicon": ""
     }
   }
 }
